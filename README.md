@@ -1,2 +1,1 @@
-# C_#_
-project-
+# C_#_project(Pharmacy Management System)
